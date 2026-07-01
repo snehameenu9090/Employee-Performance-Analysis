@@ -1,9 +1,3 @@
-# ==============================================================================
-# DMV CORE TECH - DATA ANALYST & DATA SCIENTIST PROFESSIONAL TRAINING (2026)
-# PHASE 1: FOUNDATION | WEEK 1 | DIFFICULTY: BEGINNER
-# PROJECT 1: EMPLOYEE PERFORMANCE ANALYSIS SYSTEM (PYTHON FUNDAMENTALS)
-# ==============================================================================
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -107,12 +101,3 @@ plt.show()
 plt.close()
 
 print("\n============= STEP 5: HR EXECUTIVE REPORT =============")
-print("""
-================================================================================
-EXECUTIVE REPORT & MANAGEMENT RECOMMENDATIONS
-================================================================================
-- Summary: End-to-end audit complete. IT department leads with highest scores.
-- Core Finding: Tenure and performance show strong positive linear mapping.
-- Action Plan: Launch structural sales-enablement training program instantly.
-================================================================================
-""")
